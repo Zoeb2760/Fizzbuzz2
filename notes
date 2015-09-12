@@ -1,0 +1,4 @@
+!-- <h3> Please enter a number and Click the button to see numbers divisble by 3 written as "Fizz", numbers ivisible by 5 as "Buzz" and numbers divisble by 5 and 3 as "Fizzbuzz"</h3> -->
+
+<!--<button type="button" id= "mybutton" onclick= "fizzBuzz()"> </button> -->
+	<!--<input type= "text" id="numnbers">--
